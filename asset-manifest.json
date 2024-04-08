@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.dc4d6ff2.css",
+    "main.js": "/Portfolio/static/js/main.6e02dce0.js",
+    "static/media/wrecking.gif": "/Portfolio/static/media/wrecking.d439dad8e83c45341f23.gif",
+    "static/media/Resource Balance Analysis of Saccharomyces Cerevisiae.pdf": "/Portfolio/static/media/Resource Balance Analysis of Saccharomyces Cerevisiae.49783a3f8749c32df7b4.pdf",
+    "static/media/ragecage.gif": "/Portfolio/static/media/ragecage.97f44caad6eb50cf954c.gif",
+    "static/media/dijkstra.gif": "/Portfolio/static/media/dijkstra.04dda967c4646fd64c30.gif",
+    "static/media/me.jpeg": "/Portfolio/static/media/me.077fbda60e03f2c0fbc8.jpeg",
+    "static/media/classify.gif": "/Portfolio/static/media/classify.8d681e92a42f4a77afc7.gif",
+    "static/media/ai2.jpeg": "/Portfolio/static/media/ai2.fcc4a9a13d69719a3a16.jpeg",
+    "static/media/ai3.jpeg": "/Portfolio/static/media/ai3.13e8b5272f4d2b807411.jpeg",
+    "static/media/EN_CV.pdf": "/Portfolio/static/media/EN_CV.b1d7843e821f84b46efb.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.dc4d6ff2.css.map": "/Portfolio/static/css/main.dc4d6ff2.css.map",
+    "main.6e02dce0.js.map": "/Portfolio/static/js/main.6e02dce0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.6e02dce0.js"
+  ]
+}
