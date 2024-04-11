@@ -1,2 +1,0 @@
-TODO: - Contact Backend
-      - Deploy Backend
