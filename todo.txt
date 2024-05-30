@@ -1,0 +1,12 @@
+Ghost Writer:
+- Set the tone of the AI ( creative writing, scientific etc.)
+        -> Save Form input for future API calls and pass to TextEditor component √
+        -> If outline project is checked generate api call and paste text into Quill √
+                -> Progress Bar while calling API √
+        -> Remove Filler from messages √
+- Autocomplete whole sentences (continuous ghostnotes) √
+- AI based rephrasing on a button press √
+        -> with multiple options that you can scroll through,√
+                -> save selected editor range to state and listen to rephrase scrolling btn press√
+                -> Each btn press delete old text at selection state and add the next rephrase version √
+- Tutorial ( button press controls )√
